@@ -1,0 +1,61 @@
+{
+ "name": "SuratO - Generator Surat Online",
+ "short_name": "SuratO",
+ "description": "SuratO - Platform generator surat online. Buat surat dengan mudah dan cepat. Pilih template, lengkapi data, dan download surat dalam hitungan detik!",
+ "lang": "id",
+ "dir": "ltr",
+ "theme_color": "#f7f7f7",
+ "start_url": "https://surato.formatadministrasidesa.com/",
+ "background_color": "#f2f6fb",
+ "display": "standalone",
+ "orientation": "portrait-primary",
+ "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLX1EEa5gWLB7r_Mz4KD8KbQ0NR71LLJefaL8LRa8gP7IfyEh1nZwF_niEScIwVk9l1VpdaQMievWMlQQohj2C5Isy_vvCnfr5uHjDvS0xe7yikVL_AaYemCjHUrZsObFlv_e4_rYbV8SdlOw5P_pIBX-xh3on7i7a5UnrXOJcKqNhM8Scu_fGD3RmmVZV/s1600/surato-android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCMHDCnrrgypvdLlil9WIT0J8jMFT0_kBuhIODNYq8FAEDQjDy93xT8A9qNCStWX1fL9d9nk5WrfzUgVmj4uCSgHqXF5oC7v6keS8c3UfDhyjqX-4Ni0QNE4RltohMJw2J1Dx7rg0SZ5SeIyCH95W7o6koUKQnNph8vwAtL14rTItME2GkO5-G5MJ8m7dk/s1600/surato-android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMb_hzIgf8UCQmKj2mAQqDTvMADZ-ViMdNeUswe64ghIPB7Qd5b_74OYZ0AWFyLP-u5rh3_xYH1qov4-m2DtG_TTFkVn6J0HNP10e1CBqitiWx3bqB6nMwjCjdD_DLrMJZav0xgAahgcuy7A9ME1hRXURMnQWoJkdukYeFkB9gLMD7D23-yJ2iBu0yqSzK/s1600/surato-apple-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8rbRoo3KPrKmbDuH2q03NC2PK0MACsvG8oBrK2qTdgUhjFJt2HcdbnRuvj8g26mot646i9zbSmvLasY7Jhb6Z3jmwJm4RWEHAOnRKy_lINgk6-GcGYT6QQT6dXU0AkK7i1GAuEI1O_0zdS7rsFvzBDrEFgOX9eja376O-W9ny4tCKKrEGV4KyMbOmaDm_/s1600/surato-favicon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8M8H5oK6LWcX9fwxY4zvXukXlxoclNmQWX9GkLYIXNnWMqHldrE1rl2DuI9bzW6YK0wRGBEBCZaopoTKtRcWgauwfqI0O9M1AHXf5NJrqeAe9VNdIIVJsdtFDuaafob1uCfZGUlIbdqsPjMfjxI0YwsxKMfeTwn3fggOnQpLQEac91_SBSNZraghqDS4K/s1600/surato-ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO6T8TN2cmwLZ6hTwYOEXrr_KQXEFN-YeffF1ckJy1X3KLIDabnlBqyVR3HcTZXa1D16lNGoy0GoZKCod8npRyA6hwLUf5oD9cj4-nNf-n6ywRoro1_hoptiG1Z8JJIJM0ngIb79hU4ObDrJmVDqOHE7MmLBkd2xCuFTuwCl6Sj9xQV7MwWqFk-tB0VJ_u/s1600/surato-android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0",
+    "purpose": "any"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8saVunPLIhpOK4r00oKwVT0wzaIc9RKMz-8udTjlCXeoyLJmhCTtarGlKz2R6BXiaaK7krx7PO6jq9_R7uBUvbVkrDIjLxwUuWxr3PZuMGoZr5xuUE0pXrKsx-tPDbB_YwU0TWzf9YLBVwQQvIw5wXfJzKMKMB06gku7AsBrdJXmxasvSNGRFOLZ5wyl5/s1600/surato-logo_512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0",
+    "purpose": "any"
+}, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNpjxRSFd4vmGjdY9gYAPjMZmXK_zFfv9IqfqzCM4Y4bK5McEdBxYBZij78luV5KLWK5IZtogX2Hpug7aIQ8EFK90pVgucQ1t64rGoMCVINHkAUyQZOSq10e2AFnV3tNDWL7C9vAnw6m8olLMWpb8OMshuyQfrqaW21dbCCgcpqZc47nxzyaMknnEFS-Ln/s1600/surato-logo_310x310.png",
+    "sizes": "310x310",
+    "type": "image/png",
+    "density": "6.0",
+    "purpose": "any"
+  }]
+}
