@@ -44,18 +44,24 @@
     "sizes": "192x192",
     "type": "image/png",
     "density": "4.0",
-    "purpose": "any"
+    "purpose": "maskable"
   }, {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8saVunPLIhpOK4r00oKwVT0wzaIc9RKMz-8udTjlCXeoyLJmhCTtarGlKz2R6BXiaaK7krx7PO6jq9_R7uBUvbVkrDIjLxwUuWxr3PZuMGoZr5xuUE0pXrKsx-tPDbB_YwU0TWzf9YLBVwQQvIw5wXfJzKMKMB06gku7AsBrdJXmxasvSNGRFOLZ5wyl5/s1600/surato-logo_512x512.png",
     "sizes": "512x512",
     "type": "image/png",
     "density": "5.0",
-    "purpose": "any"
+    "purpose": "maskable"
 }, {
     "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNpjxRSFd4vmGjdY9gYAPjMZmXK_zFfv9IqfqzCM4Y4bK5McEdBxYBZij78luV5KLWK5IZtogX2Hpug7aIQ8EFK90pVgucQ1t64rGoMCVINHkAUyQZOSq10e2AFnV3tNDWL7C9vAnw6m8olLMWpb8OMshuyQfrqaW21dbCCgcpqZc47nxzyaMknnEFS-Ln/s1600/surato-logo_310x310.png",
     "sizes": "310x310",
     "type": "image/png",
     "density": "6.0",
+    "purpose": "any"
+    }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAqDjflDCHJDwPTDxc2rngT0LTPW5hESKNcxXWbfT5EZi0S4d4c4XOv5jYZCwIDI0om72apkrqwtA7IvrAKVW1OQeOjWeR82Wq8c3kDMg3H_afL1vN2bzUI3l7fB2qyZ6H-Jt2CP_Jkg5_g8S43_aXbOm0oz9jiHnFpybt77z3wC3APNhxJIT14ZP24oy1/s1600/surato-apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png",
+    "density": "7.0",
     "purpose": "any"
   }]
 }
